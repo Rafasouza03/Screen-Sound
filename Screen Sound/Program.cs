@@ -37,7 +37,6 @@ void ExibirLogo()
     
     Console.WriteLine("Boas vindas ao Screen Sound 2.0!");
 
-    Console.WriteLine("TESTANDOOOOOO");
 }
 
 void ExibirOpcoesDoMenu()
